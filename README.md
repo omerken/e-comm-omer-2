@@ -64,3 +64,4 @@ Boards often require a rendering environment that serves as a context for compon
 The project comes with 5 board templates that include connections to test data or real data, and components or pages.
 
 Happy coding!
+# e-comm-omer-2
